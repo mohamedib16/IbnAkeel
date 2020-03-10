@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">نظام ابن عقيل للطلاب</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="userId">رقم المستخدم</string>
+    <string name="userPassword">رقم المرور</string>
+    <string name="image">image</string>
+    <string name="total">إجمالي:</string>
+    <string name="attendence">حضور:</string>
+    <string name="absense">غياب:</string>
+    <string name="level">المستوى</string>
+    <string name="department">القسم</string>
+    <string name="total_hours">عدد الساعات</string>
+    <string name="total_gpa">المعدل التراكمي</string>
+    <string name="total_grade">التقديرالتراكمي</string>
+    <string name="doctor_name">المرشد الأكاديمي</string>
+    <string name="staff_name">مساعد المرشد الأكاديمي</string>
+    <string name="grade">التقدير:</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="register">استمارة التسجيل</string>
+</resources>
